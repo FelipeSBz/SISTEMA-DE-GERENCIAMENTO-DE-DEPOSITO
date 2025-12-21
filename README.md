@@ -1,8 +1,8 @@
 SISTEMA DE GERENCIAMENTO DE DEPÓSITO
 
-REQUISITOS
+REQUISITOS:
 
-Para utilizar o Sistema de Gerenciamento de Depósito,você precisa instalar no compuatdor:
+Para utilizar o Sistema de Gerenciamento de Depósito, você precisa instalar no compuatdor:
 
 1) Python
 2) Biblioteca Tkinter do Python
