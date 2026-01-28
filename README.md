@@ -2,12 +2,13 @@ SISTEMA DE GERENCIAMENTO DE DEPÓSITO
 
 REQUISITOS:
 
-Para utilizar o Sistema de Gerenciamento de Depósito, você precisa instalar no compuatdor:
+Requisitos para utilizar o Sistema de Gerenciamento de Depósito:
 
-1) Python
-2) Biblioteca Tkinter do Python
-3) Biblioteca tkcalendar do Python
-4) Biblioteca reportlab do Python
-5) Banco de Dados Sqlite
+1) Python 3.7 ou superior
+2) PyQt5
+3) Openpyxl 
+4) ReportLab
+
+Instalação Rápida: pip install PyQt5 openpyxl reportlab
 
 2026 - Desenvolvido por Felipe da Silva Braz
