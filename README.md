@@ -1,7 +1,5 @@
 SISTEMA DE GERENCIAMENTO DE DEPÓSITO
 
-REQUISITOS:
-
 Requisitos para utilizar o Sistema de Gerenciamento de Depósito:
 
 1) Python 3.7 ou superior
